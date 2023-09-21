@@ -1,4 +1,4 @@
---First of all, We will ceate database to store tables:
+--First of all, We will create database to store tables:
  CREATE DATABASE ipl_data_analysis;
  
  --Now will open the query tool of the database 'ipl_data_analysis' to create tables
